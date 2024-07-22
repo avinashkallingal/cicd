@@ -4,7 +4,7 @@ const app=express()
 
 app.get('/',(req,res)=>{
 
-    res.send("hii i am avinash")
+    res.send("hii i am avinash a")
     console.log("this is server")
     console.log("chnge")
 })
